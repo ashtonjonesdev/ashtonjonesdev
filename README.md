@@ -5,6 +5,9 @@
 ## Expertise 🧠
 My expertise is in Android and iOS mobile app development. I can build cross-platform apps for Android and iOS using Flutter and native apps for Android using Java and the Android SDK.
 
+## Primary Technologies
+  <img alt="Android" src="https://img.shields.io/badge/-Android-45b8d8?style=for-the-badge&logo=android&logoColor=white&color=brightGreen" /> <img alt="Java" src="https://img.shields.io/badge/-Java-8DD6F9?style=for-the-badge&logo=java&logoColor=white&color=orange" /> <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-46a2f1?style=for-the-badge&logo=flutter&logoColor=white&color=lightBlue" /> <img alt="Dart" src="https://img.shields.io/badge/-Dart-2088FF?style=for-the-badge&logo=dart&logoColor=white&color=blue" />
+
 ## Projects 🛠
 I have built complete apps from scratch and published them to the Google Play Store and the Apple App Store. You can check them out on my [website](ashtonjones.dev/projects)
 
