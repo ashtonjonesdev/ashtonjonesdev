@@ -1,16 +1,35 @@
-### Hi there 👋
+# Hello there, I'm Ash! 👨🏻‍💻
 
-<!--
-**ashtonjonesdev/ashtonjonesdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/ashtonjonesdev/ashtonjonesdev/master/androidify.gif">
 
-Here are some ideas to get you started:
+## Expertise 🧠
+My expertise is in Android and iOS mobile app development. I can build cross-platform apps for Android and iOS using Flutter and native apps for Android using Java and the Android SDK.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects 🛠
+I have built complete apps from scratch and published them to the Google Play Store and the Apple App Store. You can check them out on my [website](ashtonjones.dev/projects)
+
+## Credentials 🔖
+I earned an Associate Android Developer certification from the Google Developers Team, where I mastered core Android Development skills, created over 30 bite-sized applications, and learned mobile app development best practices.
+
+## App Development 📱
+I am able to develop complete apps on my own from the initial idea to publishing the completed app, implementing the UI, app design, functionalities, logic, app architecture, database, and user experience.
+
+## Writing ✍🏼
+I write about technical and non-technical topics on Medium. Check out my thoughts [here](https://medium.com/@TJgrapes)
+
+## Work with Me 👥
+I do freelance mobile app development. Get in touch with me [here](ashtonjones.dev/consulting)
+
+## Connect with Me
+<p><a href="https://www.linkedin.com/in/tjgrapes" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@TJgrapes" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> <a href="https://twitter.com/TJgrapes" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+</p>
+
+
+
+
+👨🏻‍💻 Google Certified Android Engineer |
+✍ Writer |
+🧘‍♂️ Stoic && Meditator
+
+
+<img src="https://raw.githubusercontent.com/ashtonjonesdev/ashtonjonesdev/master/medium_outro.png">
