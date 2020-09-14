@@ -9,7 +9,7 @@ My expertise is in Android and iOS mobile app development. I can build cross-pla
   <img alt="Android" src="https://img.shields.io/badge/-Android-45b8d8?style=for-the-badge&logo=android&logoColor=white&color=brightGreen" /> <img alt="Java" src="https://img.shields.io/badge/-Java-8DD6F9?style=for-the-badge&logo=java&logoColor=white&color=orange" /> <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-46a2f1?style=for-the-badge&logo=flutter&logoColor=white&color=lightBlue" /> <img alt="Dart" src="https://img.shields.io/badge/-Dart-2088FF?style=for-the-badge&logo=dart&logoColor=white&color=blue" />
 
 ## Projects 🛠
-I have built complete apps from scratch and published them to the Google Play Store and the Apple App Store. You can check them out on my [website](ashtonjones.dev/projects)
+I have built complete apps from scratch and published them to the Google Play Store and the Apple App Store. You can check them out on my [website](ashtonjones.dev/)
 
 ## Credentials 🔖
 I earned an Associate Android Developer certification from the Google Developers Team, where I mastered core Android Development skills, created over 30 bite-sized applications, and learned mobile app development best practices.
